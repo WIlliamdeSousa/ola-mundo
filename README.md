@@ -1,2 +1,2 @@
 # ola mundo
- Primeiro repositório feito para o curso de Git e Github
+ Primeiro repositório feito para o Curso de Git e Github do Curso em Vídeo
